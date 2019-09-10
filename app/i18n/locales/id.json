@@ -20,5 +20,7 @@
   "tryAgain": "Coba Lagi",
   "update": "Perbarui",
   "updateBody": "Harap perbarui aplikasi ke versi baru, \n untuk mendapatkan konten-konten terbaru",
-  "updateTitle": "Perbarui"  
+  "updateTitle": "Perbarui"  ,
+  "appName": "GO GREEN",
+  "appVersion": "v.1.1"
 }

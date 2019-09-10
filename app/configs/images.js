@@ -19,7 +19,8 @@ const images = {
   // passOn: require('../../assets/images/padlock_on.png'),
   // search: require('../../assets/images/ic_search.png'),
   // userOff: require('../../assets/images/user_off.png'),
-  // userOn: require('../../assets/images/user_on.png')
+  // userOn: require('../../assets/images/user_on.png'),
+  appLogo : require('../../assets/images/navi.png'),
 };
 
 export default images;
